@@ -7,6 +7,8 @@
 ### d)  To display index of first appearance of the substring 
 ### e)  To count the occurrences of each word in a given string.
 
+##
+
 ### Video Link: (https://youtu.be/eGFtgtfGLwY?si=R7N34gbZp8IV-os5)
 
 ### Blog Link: (https://www.go2collage.com/2021/09/python-program-project-03.html)
